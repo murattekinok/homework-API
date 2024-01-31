@@ -1,0 +1,55 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+header {
+    background-color: #F5A623;
+    padding: 10px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+#hero {
+    text-align: center;
+    margin: 20px 0;
+}
+
+#hero img {
+    max-width: 100%;
+    height: auto;
+}
+
+.rental {
+    margin: 20px;
+    text-align: center;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+#contact {
+    background-color: #72B3CC;
+    padding: 20px;
+    text-align: center;
+}
+
+@media only screen and (max-width: 600px) {
+    /* Duyarlı tasarım kuralları buraya gelecek */
+}
